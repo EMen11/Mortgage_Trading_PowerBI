@@ -70,6 +70,18 @@ Ce projet met en valeur mes compétences en **modélisation Power BI, DAX, visua
 - Spread vs Benchmark with buffer thresholds / Spread vs Benchmark avec seuils de buffer.  
 
 ---
+## 📸 Screenshots
+
+![Loan Status](Loan_Status.png)  
+![Loan Balance](Loan_Balance.png)  
+![Trade Analysis](Trade_Analysis.png)  
+![Trade Execution (65 bps)](Trade_Execution_65.png)  
+![Trade Execution (70 bps)](Trade_Execution_70.png)  
+![Profit Analysis (65 bps)](Profit_Analysis_65.png)  
+![Profit Analysis (70 bps)](Profit_Analysis_70.png)  
+
+
+---
 
 ## 🚀 Key Insights | Principaux enseignements  
 
