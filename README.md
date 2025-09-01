@@ -71,17 +71,6 @@ Ce projet met en valeur mes compétences en **modélisation Power BI, DAX, visua
 
 ---
 
-## 📸 Screenshots | Captures d’écran  
-
-(Add here the screenshots of your 5 pages — ex. `Loan_Status.png`, `Loan_Balance.png`, etc.)  
-
-Exemple :  
-
-![Loan Status](images/Loan_Status.png)  
-![Trade Execution](images/Trade_Execution.png)  
-
----
-
 ## 🚀 Key Insights | Principaux enseignements  
 
 ### English  
